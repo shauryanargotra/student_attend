@@ -5,8 +5,8 @@ from student_attendence import student
 
 body_file = open('body.txt', 'r')
 
-username = 'site39617@gmail.com'
-password = 'TestingSite22#'
+username = '#'
+password = '#'
 
 body = body_file.read()
 
