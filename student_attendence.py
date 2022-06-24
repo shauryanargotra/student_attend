@@ -29,18 +29,18 @@ def students():
     # writer.writerow([shaurya, rohan, krish, ark])
 
     # if shaurya.upper() == 'A':
-    #     return 'shauryanargotra@gmail.com'
+    #     return 'student mail'
     # elif rohan.upper() == 'A':
-    #     return 'nshaurya@aol.com'
+    #     return 'student mail'
     # elif krish.upper() == 'A':
     #     pass
     # elif ark.upper() == 'A':
     #     pass
 
     if shaurya.upper() == 'A':
-        mystu_list.append('shauryanargotra@gmail.com')
+        mystu_list.append('student mail')
     if rohan.upper() == 'A':
-        mystu_list.append('varnar2005@gmail.com')
+        mystu_list.append('student mail')
     if krish.upper() == 'A':
         pass
     if ark.upper() == 'A':
